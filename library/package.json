@@ -1,0 +1,15 @@
+{
+  "name": "@lucacasonato/typescript-issue-58353",
+  "private": false,
+  "version": "0.2.0",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "**"
+  ]
+}
